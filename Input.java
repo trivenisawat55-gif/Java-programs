@@ -10,7 +10,7 @@ public class Input {
       System.out.print("what's your percentage in 12th");
       double percentage=sc.nextDouble();
       System.out.print("Are you a student?(true/false):");
-      boolean isStudent=sc.nextboolean();
+      boolean isStudent=sc.nextBoolean();
 System.out.println("Namaskar"+name);
  System.out.println("you are"+age+"years old"); 
  System.out.println("your percentage is:"+percentage);  
